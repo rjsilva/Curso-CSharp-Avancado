@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefValueType", "RefValueTyp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenciandoObjeto", "..\ReferenciandoObjeto\ReferenciandoObjeto.csproj", "{B407226B-9031-4356-9CF5-C3B5DED52FF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssesoresPropriedadesStrutsEnum", "..\AssesoresPropriedadesStrutsEnum\AssesoresPropriedadesStrutsEnum.csproj", "{538FC61F-112D-4BFA-A17F-BD83866B7B7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B407226B-9031-4356-9CF5-C3B5DED52FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B407226B-9031-4356-9CF5-C3B5DED52FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B407226B-9031-4356-9CF5-C3B5DED52FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{538FC61F-112D-4BFA-A17F-BD83866B7B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{538FC61F-112D-4BFA-A17F-BD83866B7B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{538FC61F-112D-4BFA-A17F-BD83866B7B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{538FC61F-112D-4BFA-A17F-BD83866B7B7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
