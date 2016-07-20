@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstrutoresOverloads", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construtores", "Construtores\Construtores.csproj", "{4E8009FF-49C4-44DE-81DE-D0B5A6741BA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodoAssesores", "MetodoAssesores\MetodoAssesores.csproj", "{029F1E18-17F3-478D-9B68-FA577FD6B54A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4E8009FF-49C4-44DE-81DE-D0B5A6741BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E8009FF-49C4-44DE-81DE-D0B5A6741BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E8009FF-49C4-44DE-81DE-D0B5A6741BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029F1E18-17F3-478D-9B68-FA577FD6B54A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029F1E18-17F3-478D-9B68-FA577FD6B54A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029F1E18-17F3-478D-9B68-FA577FD6B54A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029F1E18-17F3-478D-9B68-FA577FD6B54A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
